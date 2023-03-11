@@ -3,7 +3,7 @@ import Header from './Header';
 
 function Homepage() {
     return (
-        <div className='bg_image'>
+        <div className='bg_image mb-8'>
             <Header />
             <div className='text-cyan-200 flex justify-center items-center'>
                 <p className='text-center m-20 p-10 text-xl font-mono font-medium leading-loose flex-1'>
